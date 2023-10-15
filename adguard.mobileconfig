@@ -11,6 +11,8 @@
 		<key>ConsentText</key>
 		<dict>
 			<key>default</key>
+			<string>Privacy policy:
+https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver</string>
 		</dict>
 		<key>PayloadIdentifier</key>
 		<string>5d6101a6-c75b-40b6-9a37-50db99bff334</string>
